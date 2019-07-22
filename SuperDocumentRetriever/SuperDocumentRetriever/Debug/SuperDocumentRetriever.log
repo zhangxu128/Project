@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\vs2017\workspace\superdocumentretriever\superdocumentretriever\common.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\vs2017\workspace\superdocumentretriever\superdocumentretriever\common.h(240): warning C4018: “<”: 有符号/无符号不匹配
+  SuperDocumentRetriever.vcxproj -> D:\vs2017\workspace\SuperDocumentRetriever\Debug\SuperDocumentRetriever.exe
